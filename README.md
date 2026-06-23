@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -19,4 +20,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

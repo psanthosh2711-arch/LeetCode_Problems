@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0031-next-permutation/) | Medium |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0704-binary-search](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -14,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0031-next-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

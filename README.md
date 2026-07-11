@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

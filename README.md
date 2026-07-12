@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |

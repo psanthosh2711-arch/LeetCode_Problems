@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0031-next-permutation/) | Medium |
+| [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -56,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0704-binary-search/) | Easy |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,14 +54,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->

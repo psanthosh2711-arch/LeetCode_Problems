@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +69,9 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0389-find-the-difference/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->

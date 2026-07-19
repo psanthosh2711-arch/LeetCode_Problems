@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0031-next-permutation/) | Medium |
+| [0053-maximum-subarray](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
@@ -43,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0389-find-the-difference/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->

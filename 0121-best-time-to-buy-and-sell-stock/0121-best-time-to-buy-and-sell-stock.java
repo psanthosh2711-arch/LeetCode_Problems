@@ -6,16 +6,11 @@ class Solution {
         for(int i=0;i<prices.length;i++){
             if(prices[i]<min){
                 min=prices[i];
-                for(int j=i+1;j<prices.length;j++){
-                    int diff=prices[j]-prices[i];
-                    if(diff>max){
-                        max=diff;
-                    }
-                }
             }
-        }
-        if(max<0){
-            return 0;
+            int profit=prices[i]-min;
+            if(profit>max){
+                max=profit;
+            }
         }
         return max;
     }

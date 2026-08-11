@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
@@ -85,4 +86,9 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->

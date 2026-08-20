@@ -69,6 +69,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/psanthosh2711-arch/LeetCode_Problems/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
